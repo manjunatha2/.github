@@ -25,3 +25,7 @@ Please remove sections here if not applicable.
 <!-- Please provide screenshots of new/affected pages/views. -->
 
 <!-- If any breaking change add a section -->
+
+### Priority
+
+<!--Please provide priority -->
